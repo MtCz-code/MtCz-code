@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mi nombre es Matías Carranza, soy un estudiante de Ingeniería en Sistemas de Información.
 
 <!--
 **MtCz-code/MtCz-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
